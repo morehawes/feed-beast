@@ -6,7 +6,7 @@ Display _live_ Garmin inReach <a href="https://support.garmin.com/?faq=p2lncMOzq
 [inreach-mapshare mapshare_identifier="your_identifier"]
 ```
 
-![Map embedded in WordPress page](https://raw.githubusercontent.com/morehawes/inreach-mapshare/master/src/img/screenshot-1.png)
+![Map embedded in WordPress page](https://raw.githubusercontent.com/morehawes/inreach-mapshare/staging/src/img/screenshot-1.png)
 
 [View Example &raquo;](https://www.morehawes.ca/trips/arizona-2024/)
 
@@ -63,7 +63,7 @@ Please report issues or make suggestions by creating a <a href="https://github.c
 
 <!-- 1. [Download the plugin (.zip)](https://github.com/OpenGIS/inreach-mapshare/archive/refs/heads/master.zip). -->
 
-1. [Download the plugin (.zip)](https://github.com/OpenGIS/inreach-mapshare/archive/refs/heads/staging.zip).
+1. [Download the plugin (.zip)](https://github.com/OpenGIS/inreach-mapshare/archive/refs/tags/2.0.0.zip).
 2. In your WordPress Admin, go to Plugins > Add New Plugin.
 3. Click the "Upload Plugin" button.
 4. Upload the `inreach-mapshare.zip` file.
@@ -137,24 +137,24 @@ This plugin requests data from your MapShare page and embeds it anywhere Shortco
 
 ### 1. Map embedded in WordPress page
 
-![Map embedded in WordPress page](https://raw.githubusercontent.com/morehawes/inreach-mapshare/master/src/img/screenshot-1.png)
+![Map embedded in WordPress page](https://raw.githubusercontent.com/morehawes/inreach-mapshare/staging/src/img/screenshot-1.png)
 
 ### 2. Responsive design shown on small screen
 
-![Responsive design shown on small screen](https://raw.githubusercontent.com/morehawes/inreach-mapshare/master/src/img/screenshot-2.png)
+![Responsive design shown on small screen](https://raw.githubusercontent.com/morehawes/inreach-mapshare/staging/src/img/screenshot-2.png)
 
 ### 3. Responsive design shown on large screen
 
-![Responsive design shown on large screen](https://raw.githubusercontent.com/morehawes/inreach-mapshare/master/src/img/screenshot-3.png)
+![Responsive design shown on large screen](https://raw.githubusercontent.com/morehawes/inreach-mapshare/staging/src/img/screenshot-3.png)
 
 ### 4. Shortcode Generator (WP Admin > Settings > inReach MapShare)
 
-![Shortcode Generator (WP Admin > Settings > inReach MapShare)](https://raw.githubusercontent.com/morehawes/inreach-mapshare/master/src/img/screenshot-4.png)
+![Shortcode Generator (WP Admin > Settings > inReach MapShare)](https://raw.githubusercontent.com/morehawes/inreach-mapshare/staging/src/img/screenshot-4.png)
 
 ### 5. Appearance Options (WP Admin > Settings > inReach MapShare)
 
-![Appearance Options (WP Admin > Settings > inReach MapShare) ](https://raw.githubusercontent.com/morehawes/inreach-mapshare/master/src/img/screenshot-5.png)
+![Appearance Options (WP Admin > Settings > inReach MapShare) ](https://raw.githubusercontent.com/morehawes/inreach-mapshare/staging/src/img/screenshot-5.png)
 
 ### 6. Advanced Options (WP Admin > Settings > inReach MapShare)
 
-![Advanced Options (WP Admin > Settings > inReach MapShare)](https://raw.githubusercontent.com/morehawes/inreach-mapshare/master/src/img/screenshot-6.png)
+![Advanced Options (WP Admin > Settings > inReach MapShare)](https://raw.githubusercontent.com/morehawes/inreach-mapshare/staging/src/img/screenshot-6.png)
